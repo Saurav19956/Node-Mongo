@@ -12,7 +12,7 @@ const app = express();
 const port = 3000;
 
 // MongoDB connection URI and database name
-const uri = 'mongodb+srv://gsaurav760:Mongo123456@cluster0.npzjhzn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+const uri = 'mongodb+srv://gsaurav760:@cluster0.npzjhzn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 
 mongoose.connect(uri, {'dbName': 'customerDB'});
 
