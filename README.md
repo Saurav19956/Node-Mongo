@@ -1,5 +1,5 @@
 # Node-Mongo
-Simple auth Api with login and sigIn page
+Simple auth Api with login and sigIn pages
 
  error handling 
 
